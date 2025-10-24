@@ -2,6 +2,7 @@ let bird
 let background, birdImg;
 
 function preload(){
+    bird
     // write code to preload bird.png and background.png
     // refer to assets folder
 }
