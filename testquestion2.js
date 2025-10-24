@@ -9,7 +9,7 @@ function setup(){
     square.y = 300;
     square.width = 60;
     square.length = 60;
-    // code to create a new square sprite
+    // code to create a new square sprite 
 }
 
 function draw(){
