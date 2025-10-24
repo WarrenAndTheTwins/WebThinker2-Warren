@@ -8,7 +8,7 @@ function setup(){
     square.x = 200;
     square.y = 300;
     square.width = 60;
-    square.length = 
+    square.length = 60;
     // code to create a new square sprite
 }
 
