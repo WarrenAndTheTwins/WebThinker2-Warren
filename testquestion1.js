@@ -10,9 +10,6 @@ function preload(){
 
 function setup(){
     new Canvas(400, 600);
-    bird = new Sprite;
-    bird.x = 200;
-    bird.y = 300;
 
     // write code to create sprite and load bird image on sprite
 }
