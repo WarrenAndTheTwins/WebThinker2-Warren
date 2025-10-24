@@ -19,8 +19,6 @@ function setup(){
 
 function draw(){
     background("grey");
-function draw(){
-    background("grey");
     if(MouseEvent.presses()){
         let square;
     // code to check if mouse is pressed i.e. mouse.presses()
