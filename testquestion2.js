@@ -2,7 +2,7 @@ let square;
 
 function setup(){
     new Canvas(400, 600);
-    AudioWorkletNode.gravity.y = 10
+    world.gravity.y = 10
     // code to set the gravity of the world
 
     // code to create a new square sprite
