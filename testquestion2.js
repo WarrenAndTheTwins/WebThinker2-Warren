@@ -10,7 +10,7 @@ function setup(){
 
 function draw(){
     background("grey");
-    if(MouseEvent.presses()){
+    if(mouse.presses()){
        
     // code to check if mouse is pressed i.e. mouse.presses()
         // if mouse is pressed, the square sprite "flies" up
