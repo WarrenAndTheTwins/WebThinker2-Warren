@@ -10,6 +10,9 @@ function setup(){
 
 function draw(){
     background("grey");
+    if(MouseEvent.presses()){
+        square
+    }
 }
 
 
