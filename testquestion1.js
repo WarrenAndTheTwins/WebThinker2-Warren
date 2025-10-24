@@ -10,12 +10,11 @@ function preload(){
 
 function setup(){
     new Canvas(400, 600);
-
+    image(bird, 200, 300, width, height);
     // write code to create sprite and load bird image on sprite
 }
 
 function draw(){
     image(background, 0, 0, width, height);
-    image(bird, 200, 300, width, height);
 
 }
