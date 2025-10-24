@@ -19,6 +19,6 @@ function setup(){
 
 function draw(){
     image(background, 0, 0, width, height);
-    image(imgObject, x, y, width, height);
+    image(bird, x, 200, width, height);
 
 }
