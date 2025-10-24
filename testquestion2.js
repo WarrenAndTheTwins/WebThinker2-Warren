@@ -9,7 +9,7 @@ function setup(){
     square.y = 300;
     square.width = 60;
     square.length = 60;
-    // code to create a new square sprite it doesn't show- why??????
+    // code to create a new square sprite yes mmhmmm
 }
 
 function draw(){
